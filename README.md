@@ -26,8 +26,8 @@ RL1 and RL2 are the ranklist obtained from Dictionary Alignment approach and CBF
 After extracting the features, scores and Test data run the ```dual_reranking.m``` file.  
   
 ### Dataset used  
-1. CASIA NIR-VIS 2.0 dataset  
-2. SCface dataset
+1. [CASIA NIR-VIS 2.0 dataset](https://pythonhosted.org/bob.db.cbsr_nir_vis_2/)  
+2. [SCface dataset](http://www.scface.org/)  
 3. HPR dataset (to be released shortly)  
 
 You need to prepare the dataset on your own i.e. prepare the images and its corresponding labels for training and testing for all folds of the protocol described by the dataset. Since SCface dataset has no specific evaluation protocol, we have defined our protocol which can be found in our paper.  
