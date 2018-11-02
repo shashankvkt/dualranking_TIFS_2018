@@ -35,7 +35,7 @@ You need to prepare the dataset on your own i.e. prepare the images and its corr
 ### Citation  
 If you use the code in this repository in your paper, please consider citing:  
 ```
-@InProceedings{Mudunuri_TIFS,   
+@Article{Mudunuri_TIFS,   
  author = {Sivaram Prasad Mudunuri, and Shashanka Venkataramanan, and Soma Biswas},    
   title = {Dictionary Alignment with Re-ranking for Low Resolution NIR-VIS Face Recognition.},    
   journal = {IEEE Transactions on Information Forensics and Security},  
