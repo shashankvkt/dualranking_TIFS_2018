@@ -45,4 +45,8 @@ If you use the code in this repository in your paper, please consider citing:
   month = {April},   
   year = {2019} 
 }
-```
+```  
+  
+### Queries
+Please feel free to contact [Me](https://shashankvkt.github.io/) for the re-ranking algorithm & [Sivaram](https://sites.google.com/site/sivaramprasad443/) for any queries related to Dicionary Alignment approach.  
+Corresponding Author: [Dr. Soma Biswas](http://www.ee.iisc.ac.in/new/people/faculty/soma.biswas/index.html)
