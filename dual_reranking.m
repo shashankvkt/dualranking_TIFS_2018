@@ -14,7 +14,7 @@ Process: computes the strongly similiar, dissimilar and neutral gallery
 Output: Rank-k% +/- std., where k = 1,5,10,15,20.
 
 
-Code written by : Shashanka V. (shashank.v@Knights.ucf.edu)
+Code written by : Shashanka V. (shashankv@Knights.ucf.edu)
 
 NOTE:- The notations used here and that in the paper may
 differ..but the formulations are exactly the same. You may use your own
